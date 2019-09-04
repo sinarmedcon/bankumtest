@@ -1,0 +1,2 @@
+# bankumtest
+simple news platform
